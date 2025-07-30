@@ -1,6 +1,6 @@
 [
   {
-    "name": "Nyaa",
+    "name": "Nyaa Torrent Source",
     "version": "1.0.0",
     "description": "Search torrents from nyaa.si",
     "url": "https://raw.githubusercontent.com/9merci/nyaa-extension-repo/main/src/nyaa.js"
